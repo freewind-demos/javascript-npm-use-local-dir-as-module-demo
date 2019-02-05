@@ -1,5 +1,5 @@
-JavaScript Npm Demo
-===================
+JavaScript Npm Use Local Dir as Module Demo
+============================================
 
 Make sure npm version >= 5:
 
